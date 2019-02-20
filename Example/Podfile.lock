@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - XAGuidePage (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - XAGuidePage (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  XAGuidePage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  XAGuidePage: e6ab9885d1a482dbb378dfecd3a2ce676487e76d
+
+PODFILE CHECKSUM: f8a9ebd9015f11fea8f7566594e0162fd4afadfd
+
+COCOAPODS: 1.5.3

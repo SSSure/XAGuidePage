@@ -1,0 +1,6 @@
+framework module XAGuidePage {
+  umbrella header "XAGuidePage-umbrella.h"
+
+  export *
+  module * { export * }
+}
